@@ -1,5 +1,10 @@
 Algoritmo ListingTelefonico
 	
+	
+	//Comentario para el proximo día
+	//
+	
+	
 	Definir eleccion Como Entero;
 	
 	Definir salir Como Logico;
@@ -14,7 +19,7 @@ Algoritmo ListingTelefonico
 	
 	Dimension vNombres_Contactos[5];
 	
-	Dimension vNumeros_Telefonos[5];
+	Dimension vNumeros_Telefonos[9];
 	
 	vNombres_Contactos[0] = "Juan Francisco";
 	
